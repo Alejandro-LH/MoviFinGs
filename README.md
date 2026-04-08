@@ -54,3 +54,9 @@ Actualmente ya incluye:
 ## Nota
 
 Este repositorio es evidencia de una aplicación en desarrollo, mientras la implementación completa y la evolución del proyecto se mantienen de forma privada, a menos que se solicite una invitación.
+
+## Autor
+
+Alejandro LH  
+Estudiante de Ingeniería en Computación Inteligente  
+Universidad de Colima
